@@ -1,16 +1,16 @@
 # Playwright Automation Project
 
-## 📌 Description
+## Description
 
 This project contains automated test scripts built using Playwright for end-to-end testing of e-commerce applications.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Playwright
 - JavaScript
 - Node.js
 
-## 📂 Project Structure
+## Project Structure
 
 - pages/ -> Contains Page Object classes (LoginPage, DashBoardPage, MyCartPage, OrderShippingPage, OrderHistoryPage)
 - tests/ → Test scripts
@@ -24,7 +24,7 @@ This project contains automated test scripts built using Playwright for end-to-e
 2. Run tests:
    npx playwright test
 
-## ✅ Features
+## Features
 
 - Automated UI testing
 - Cross-browser testing
@@ -45,7 +45,7 @@ This project follows the Page Object Model (POM) design pattern to improve test 
 - Easier maintenance when UI changes
 - Better seperation of test logic and page logic
 
-## 📚 What I Learned
+## What I Learned
 
 - Used Page Object Model for framework design.
 - Writing automation scripts using Playwright
