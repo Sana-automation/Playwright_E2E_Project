@@ -16,7 +16,7 @@ This project contains automated test scripts built using Playwright for end-to-e
 - tests/ → Test scripts
 - playwright.config.js → Configuration file
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies:
    npm install
